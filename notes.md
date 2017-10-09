@@ -40,18 +40,17 @@ Ich verbleibe mit freundlichen Grüßen
 
 sehr gerne möchte ich mich um die Stelle Project Collaborator bewerben.
 
-Eine Tätigkeit, die eine flexible Herangehensweise und die Erarbeitung ungewohnter Problemstellungen erfordert, erscheint mir reizvoll. Mit meiner lösungsorientierten Haltung und selbstmotivierten Arbeitsweise glaube ich eine wertvolle Unterstützung für den Gesamterfolg des Projekts liefern zu können.
+Eine Tätigkeit, die eine flexible Herangehensweise und die Erarbeitung ungewohnter Problemstellungen erfordert, erscheint mir reizvoll. Mit einer lösungsorientierten Haltung und selbstmotivierten Arbeitsweise glaube ich eine wertvolle Unterstützung für den Gesamterfolg des Projekts liefern zu können.
 
-Meine Affinität zu analytischem, systematischem Denken, sowie meine allgemeine Neigung, Neues zu erlernen und mich produktiv einzubringen, garantieren eine kurze Einarbeitungszeit.
+Meine Affinität zu systematischem Denken, meine allgemeine Neigung, Neues zu erlernen und mich produktiv einzubringen, sowie mein routinierter Umgang mit Computern garantieren eine kurze Einarbeitungszeit.
 
 Überdies verfüge ich durch meine nunmehr knapp einjährige Anstellung im Projekt Horizon über die Kenntnis der internen Abläufe „am Floor“, was eine solide, erfahrungsgestütze Grundlage für die Planung und Steuerung von Managementprozessen bildet.
 
-Zu guter letzt verfüge ich über die nötigen Sprachkenntnisse, die eine reibungslose und effiziente interne Abstimmung und Kommunikation im internationalen Kontext des Horizon-Projekts ermöglichen.
+Nicht zuletzt besitze ich die nötigen Sprachkenntnisse, die eine reibungslose und effiziente interne Abstimmung und Kommunikation im internationalen Kontext des Horizon-Projekts ermöglichen.
 
-Persönlich erwarte ich mir von dieser Stellung eine abwechslungsreiche Tätigkeit und die Chance, Fähigkeiten im Bereich des Projektmanagements und der Prozessoptimierung zu erwerben.
+Persönlich erwarte ich mir eine herasusfordernde, abwechslungsreiche Tätigkeit innerhalb des Horizon-Projekts auszüben und die Chance, daduch professionelle Fähigkeiten im Bereich des Projektmanagements und der Prozessoptimierung zu erwerben.
 
 Im Falle einer positiven Begutachtung Ihrerseits freue mich auf ein persönliches Gespräch über alles Weitere.
-
 
 Ich verbleibe mit freundlichen Grüßen
 
