@@ -48,14 +48,50 @@ Implikationen für Geldpolitik:
 
 *Automatic stabilizers* wurden in keiner Weise weiterentwickelt.
 
-r<g Kontext: Frage nach dynamic inefficiancy [^1]. Aber save rate ist viele eher niedrig, während das marginal product durchaus hoch genug ist, so don't just issue debt.
+r<g Kontext: Frage nach dynamic inefficiancy [^1]. Aber **save rate ist zu niedrig**, während das marginal product durchaus hoch genug ist, so don't issue debt just because it's good and then it's not used for anything.
 
 [^1]: *dynamic efficiany* bezieht sich auf ein Verhältnis von Spar- und Konsumquote über Zeitperioden hinweg. Es bezeichnet den Zustand einer als Wachstumsmodell abgebildeten Wirtschaft, in dem es unmöglich ist, eine Zeitperiode besser zu stellen, ohne eine folgende schlechter zu stellen. (Vgl. Solow growth model und die *Golden Rule savings rate*)
 
-Sofern es keinen Output-gap gibt (wie anzunehmen ist), kann Konsolidierung verzögert werden.
+Sofern es keinen Output-gap gibt, wovon man ausgehen kann, sollte **Konsolidierung verzögert** werden.
 
-Öffentliche Investitionen steigern: waren bereits lange zu niedrig; r<g (niedrige Finanzierungskosten durch niedrige Zinsen); Hysteresis (increasing demand und indirect output würden sie sich selbst rechnen).
+**Öffentliche Investitionen** steigern: waren bereits lange zu niedrig; r<g (**niedrige Finanzierungskosten** durch niedrige Zinsen); **Hysteresis** (increasing demand und indirect output würden sie sich selbst rechnen).
 
 ## Finanzregulierungspolitik
+
+High capital ratios and stress tests enough? Stress tests sind zu zahm, um Banken nicht durch Verunsicherung des Marktes zu schädigen.
+
+## Conclusions
+
+Economies do not self stablize
+Economies may implode and there may be hystersis
+Need for strong pro-active and reactive policies
+All three needed: money, fiscal, and financial policy
+"Back to the future" and Keynesianism
+
+Case for Revolution:
+
+* Financial crises very likely again and they are poorly understood
+* Economies unstable. Non-linearities are essential
+* Secular stagnation is here to stay
+* New approaches to tools (VAR, DSGE) for non linearities
+
+Case for Evolution:
+
+* Models can be extended (DSGE must not be linear)
+* Non-linearities mostyl in the "dark corners". 90% of the times conventional models are fine.
+* Financial crisis will remain rare events
+* Financial crises can be handled
+
+## Summers' response
+
+**Secular stagnation**: Larger problem for industrial world over the next two decades insufficient demand produced endogounesly by the economy by a variety of forces that leads to a chronic excess of savings over investment.
+
+Evidence threefold:
+
+* We have been below inflation target for a decade already, and will be same for the next
+* Real interest averages to 0% over the next decade rate is indicative of an excess of savings over investment and thus difficulty of interests rates of enabling the market to clear
+* Doubt that strong and adequate growth will go hand in hand with sustainable financial conditions. Compare previous periods: 2003 to 2007 there were unsustainable buildups of asset prices; before was a recession starting from 2001, and this was preceeded by bubble building in the stock market at the end of 1990s. Healthy sustainable growth has been a long time ago [Anm. TM, auch davor nicht wirklich. Vgl. Streeck: Gekaufte Zeit]. High savings rates in the surplus countries [Anm TM. Deutschland] is one participating factor in the global excess of savings; implications for the international adjustment mechanism. So instead of the dominant paradigm of containing temptation that leads to inflation without benefit, the real problem is a shortage of demand by excess of saving over demand, the Keynesian perspective.
+
+### Literatur
 
 https://piie.com/events/rethinking-macroeconomic-policy
